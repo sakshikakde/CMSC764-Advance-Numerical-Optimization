@@ -19,3 +19,6 @@
 2) Problem 2 : ReLU layer.
 3) Problem 3 : Cross Entropy.
 4) problem 4 : Bias layer.
+
+## Fun Projects
+1) Image recovery using Total-Variation denoising objective.
