@@ -14,7 +14,7 @@
 1) Problem 1 : Gradient checker.
 2) Problem 2 : Write a routine that evaluates the logistic loss function.
 3) Problem 3 : IImplement the total-variation denoising objective.
-## Homework 4 : PySmorch(A  machine learning library for the dregs of society)
+## Homework 4 : PySmorch (A machine learning library for the dregs of society)
 1) Problem 1 : A linear layer.
 2) Problem 2 : ReLU layer.
 3) Problem 3 : Cross Entropy.
