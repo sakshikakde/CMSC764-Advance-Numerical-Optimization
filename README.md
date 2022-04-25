@@ -19,6 +19,19 @@
 2) Problem 2 : ReLU layer.
 3) Problem 3 : Cross Entropy.
 4) problem 4 : Bias layer.
+## Homework 5 : Convex Functions  
+1) Problem 1 : Check if the functions are convex.
+2) Problem 2 : Verify properties of convex functions.
+3) Problem 3 : Quasi convex
+## Homework 6 : Gradient methods and Duality
+1) Problem 1 : Gradient descent: GD, Barzilai-Borwein, Nestrov
+2) Problem 2 : Image denoising
+3) Problem 3 : The dual
+4) Problem 4 : Linear programming example
+## Homework 7 : Splitting Methods 
+1) Problem 1 : Forward-backward splitting
+2) Problem 2 : Netflix problem
+
 
 ## Fun Projects
 1) Image recovery using Total-Variation denoising objective.
