@@ -31,8 +31,8 @@
 ## Homework 7 : Splitting Methods 
 1) Problem 1 : Forward-backward splitting
 2) Problem 2 : Netflix problem
-## Homework 8: Alternating Direction Method of Multipliers
-## Homework 9: Monte Carlo Markov Chain
+## Homework 8: Alternating Direction Method of Multipliers (ADMM)
+## Homework 9: Monte Carlo Markov Chain (MCMC)
 
 ## Fun Projects
 1) Image recovery using Total-Variation denoising objective.
