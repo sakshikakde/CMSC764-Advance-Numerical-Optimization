@@ -31,6 +31,7 @@
 ## Homework 7 : Splitting Methods 
 1) Problem 1 : Forward-backward splitting
 2) Problem 2 : Netflix problem
+## Homework 8: ADMM
 
 
 ## Fun Projects
